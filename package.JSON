@@ -1,0 +1,23 @@
+
+{
+	"name": "PeterChat",
+	"version": "0.1.0",
+	"description": "A node js chat app I wrote",
+	"main": "index.js",
+	"scripts": {
+		"start": "node index.js"
+	},
+	"dependencies": {
+    "express": "^4.15.2",
+    "socket.io": "^1.7.3"
+	},
+	"keywords": [
+		"node",
+		"express",
+		"chat"
+	],
+    "scripts": {
+    "start": "node index.js"
+  }
+	"license": "MIT"
+}
